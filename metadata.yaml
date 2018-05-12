@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '41805'
     url: http://www.gutenberg.org/2009/agents/41805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42666#Across-Patagonia
 gutenberg_issued: '2013-05-08'
 gutenberg_type: Text
 identifiers:
